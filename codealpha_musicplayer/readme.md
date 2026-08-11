@@ -10,7 +10,7 @@ A simple, responsive web-based music player.
 ## 🛠️ Tech Stack
 * HTML5
 * CSS3
-* JavaScript (Vanilla)
+* JavaScript 
 
 ## 💻 How to Run
 1. Clone the repository.
